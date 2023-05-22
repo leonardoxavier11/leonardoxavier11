@@ -1,5 +1,12 @@
 # Projetos
 
+<h3>- Projeto Hotel Alura - Com Banco de Dados:</h3>
+<div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+</div>
+
+[**GitHub-Pages**](--)   /    [**Código**]([https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge%20ONE%20-%2001/01](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge(s)/03_hotel_alura_jpa))
+
 <h3>- Criptografador WEB:</h3>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div>
 
-[**GitHub-Pages**]()   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge(s)/03_hotel_alura_jpa))
+[**GitHub-Pages**]   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge(s)/03_hotel_alura_jpa)
 
 <h3>- Criptografador WEB:</h3>
 <div>

@@ -1,6 +1,6 @@
 # Projetos
 
-<h3>- Projeto Controle Médicos/Pacientes c/ API REST </h3>
+<h3>- Projeto Controle Médicos/Pacientes com API REST </h3>
 <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>

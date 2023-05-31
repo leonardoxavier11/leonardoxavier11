@@ -5,14 +5,14 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-[**GitHub-Pages**]   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Curso11%20Spring%20Boot%203%20desenvolva%20uma%20API%20Rest%20em%20Java/api/src/main/java/med/voll/api)
+[**Desktop App**]   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Curso11%20Spring%20Boot%203%20desenvolva%20uma%20API%20Rest%20em%20Java/api/src/main/java/med/voll/api)
 
 <h3>- Projeto Hotel - Com Banco de Dados e Maven</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-[**GitHub-Pages**]   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge(s)/03_hotel_alura_jpa)
+[**Desktop App**]   /    [**Código**](https://github.com/leonardoxavier11/Oracle-Next-Education/tree/main/Challenge(s)/03_hotel_alura_jpa)
 
 <h3>- Criptografador WEB:</h3>
 <div>

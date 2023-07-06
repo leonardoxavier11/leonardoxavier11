@@ -2,10 +2,10 @@
 
 <h3>- Repositório Data-Analytics/Data-Science:</h3>
 <div>
-<img src="https://camo.githubusercontent.com/6cefdd866e04ce3b48fe80c8b6c1b3879b64a72068f48fe05a56bf5867b40f06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d4632433831313f7374796c653d666c6174266c6f676f3d506f7765722d4249266c6f676f436f6c6f723d626c61636b"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-[**link**]([https://leonardoxavier11.github.io/Desafios/JogoDaVida/index.html](https://github.com/leonardoxavier11/Data-Analytics---Data-Science/tree/master/Curso%20-%20Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science))
+[**link**](https://github.com/leonardoxavier11/Data-Analytics---Data-Science/tree/master/Curso%20-%20Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science))
 
 
 

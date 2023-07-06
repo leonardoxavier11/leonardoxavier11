@@ -2,7 +2,7 @@
 
 <h3>- Repositório Data-Analytics/Data-Science:</h3>
 
-[**<h3>- Repositório Data-Analytics/Data-Science:</h3>**](https://leonardoxavier11.github.io/Desafios/JogoDaVida/index.html)
+[**- Repositório Data-Analytics/Data-Science:**](https://leonardoxavier11.github.io/Desafios/JogoDaVida/index.html)
 
 <h3>- Reprodução do Game Of Life de John Conway - WEB:</h3>
 <div>

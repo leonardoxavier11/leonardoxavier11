@@ -2,13 +2,12 @@
 
 <h3>- Repositório Data-Analytics/Data-Science:</h3>
 <div>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
+< img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-[**link**](https://github.com/leonardoxavier11/Data-Analytics---Data-Science/tree/master/Curso%20-%20Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science))
-
-
-
+[**link**](https://github.com/leonardoxavier11/Data-Analytics---Data-Science/tree/master/Curso%20-%20Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science)
 
 <h3>- Reprodução do Game Of Life de John Conway - WEB:</h3>
 <div>
